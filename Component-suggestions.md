@@ -5,5 +5,6 @@ This is a list of component suggestions for potential inclusion into future vers
 * PMIx
 * iRODS
 * OCR
+* xCAT
 
 
