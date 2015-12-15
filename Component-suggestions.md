@@ -52,6 +52,6 @@ This is a list of component suggestions for potential inclusion into future vers
 | utility       | NCO         | http://nco.sourceforge.net/nco.html      | netCDF commandline operators | 
 | utility       | patchelf    | https://github.com/NixOS/patchelf        | modify dynamic linker and RPATH of ELF executables |
 | utility       | PMIx        | https://www.open-mpi.org/projects/pmix   | Exascale process management interface |
-| utility       | SideCar     | ? ([about}(https://computing.llnl.gov/vis/sidecarUM.html)) | Remote blockbuster control | 
+| utility       | SideCar     | ? ([about](https://computing.llnl.gov/vis/sidecarUM.html)) | Remote blockbuster control | 
 | utility       | SQLCipher   | [SQLCipher](https://www.zetetic.net/sqlcipher/open-source) | SQL database encryption |	
 | utility/lib	| szip        | [szip](https://www.hdfgroup.org/doc_resource/SZIP) | HDF file compression | 
