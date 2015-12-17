@@ -2,7 +2,9 @@ This is a list of component suggestions for potential inclusion into future vers
 
 | Type | Name | Location | Notes |
 |------|------|----------|-------|
+| admin         | clustershell | https://github.com/cea-hpc/clustershell | Python replacement for pdsh |
 | admin         | spindle     | https://github.com/hpc/Spindle |  tool for loading dynamic libs at scale |
+| | | | |
 | configuration | ansible     | https://github.com/ansible/ansible       | |
 | configuration	| chef        | https://www.chef.io/chef                 | |
 | configuration	| cfengine    | https://cfengine.com                     | v2 (HPC/genderized) & v3 |
@@ -27,11 +29,11 @@ This is a list of component suggestions for potential inclusion into future vers
 | | | | |	 	 	 	 
 | packaging     | Spack	      | https://github.com/LLNL/spack            | HPC-centric Package Management |
 | | | | |
-| profiling     | Darshan     | [darshan](http://www.mcs.anl.gov/research/projects/darshan) | Characterize IO patterns | 
-| profiling     | gperftools  | https://github.com/gperftools/gperftools | Google performance tools |
-| profiling     | HPCToolkit  | http://hpctoolkit.org                    | HPC app profiling |
-| profiling     | memP        | http://memp.sourceforge.net              | Parallel heap profiling |
-| profiling     | papiex      | http://icl.cs.utk.edu/~mucci/papiex      | (unsupported) hw performance using papi |	 	 	 	 
+| perf-tools    | Darshan     | [darshan](http://www.mcs.anl.gov/research/projects/darshan) | Characterize IO patterns | 
+| perf-tools    | gperftools  | https://github.com/gperftools/gperftools | Google performance tools |
+| perf-tools    | HPCToolkit  | http://hpctoolkit.org                    | HPC app profiling |
+| perf-tools    | memP        | http://memp.sourceforge.net              | Parallel heap profiling |
+| perf-tools    | papiex      | http://icl.cs.utk.edu/~mucci/papiex      | (unsupported) hw performance using papi |	 	 	 	 
 | | | | |
 | provisioning  | xCAT        | http://www.xcat.org                      | |
 | | | | |
@@ -44,7 +46,6 @@ This is a list of component suggestions for potential inclusion into future vers
 | | | | |	 	 	 
 | utility       | AtomView3 (1&2?) | [AtomView](http://li.mit.edu/A/Graphics/A3/A3.html) | Atomistic configuration viewer |
 | utility       | BlockBuster | [BlockBuster](http://sourceforge.net/projects/blockbuster) | High-resolution image/movie player | 
-| utility       | clustershell | https://github.com/cea-hpc/clustershell | Python replacement for pdsh |
 | utility       | GMT         | http://gmt.soest.hawaii.edu              | Generic Mapping Tools | 
 | utility       | iRODS       | http://irods.org                         | open source data management software |
 | utility       | LaunchMON   | [LaunchMON](https://github.com/scalability-llnl/LaunchMON) | co-locate tool daemons with HPC runtimes |
