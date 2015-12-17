@@ -2,7 +2,7 @@ This is a list of component suggestions for potential inclusion into future vers
 
 | Type | Name | Location | Notes |
 |------|------|----------|-------|
-! admin         | spindle     | 	https://github.com/hpc/Spindle | | tool for loading dynamic libs at scale |
+| admin         | spindle     | 	https://github.com/hpc/Spindle | | tool for loading dynamic libs at scale |
 | configuration | ansible     | https://github.com/ansible/ansible       | |
 | configuration	| chef        | https://www.chef.io/chef                 | |
 | configuration	| cfengine    | https://cfengine.com                     | v2 (HPC/genderized) & v3 |
