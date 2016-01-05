@@ -41,7 +41,7 @@ This is a list of component suggestions for potential inclusion into future vers
 | visualization | engauge     | http://digitizer.sourceforge.net         | Convert graph image to spreadsheet | 
 | visualization	| ncl         | http://www.ncl.ucar.edu                  | NCAR Command Language |
 | visualization | ParaView    | http://www.paraview.org                  | Parallel visualization application |
-| visualization | PySide      | http://pypi.python.org/pypi/PySide/1.2.2 | Python QT bindings |
+| visualization | PySide      | [Latest version is 1.2.4](https://pypi.python.org/pypi/PySide/1.2.4), http://pypi.python.org/pypi/PySide/1.2.2 | Python QT bindings |
 | visualization | VTK         | http://www.vtk.org/download              | Visualization Toolkit |
 | | | | |	 	 	 
 | utility       | AtomView3 (1&2?) | [AtomView](http://li.mit.edu/A/Graphics/A3/A3.html) | Atomistic configuration viewer |
