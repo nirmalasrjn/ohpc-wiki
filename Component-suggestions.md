@@ -25,7 +25,7 @@ This is a list of component suggestions for potential inclusion into future vers
 | library       | scr         | https://computation.llnl.gov/project/scr | Scalable Checkpoint Restart |
 | library       | TCLAP       | http://tclap.sourceforge.net [Also on GitHub(newer?)](https://github.com/eile/tclap) | Library to define and access CLI arguments |
 | library       | UDUNITS     | [UDUNITS](http://www.unidata.ucar.edu/software/udunits) | Conversion between different units(udunits2?) |
-| library       | VampireTrace | http://tinyurl.com/ozrs7e3 | detailed logging of program execution for parallel applications |
+| library       | VampirTrace | http://tinyurl.com/ozrs7e3 | detailed logging of program execution for parallel applications |
 | | | | |	 	 	 	 
 | packaging     | Spack	      | https://github.com/LLNL/spack            | HPC-centric Package Management |
 | | | | |
