@@ -37,7 +37,7 @@ This is a list of component suggestions for potential inclusion into future vers
 | | | | |
 | provisioning  | xCAT        | http://www.xcat.org                      | |
 | | | | |
-| visualization | Blender     | https://rcc.fsu.edu/software/blender     | 3D animation suite | 
+| visualization | Blender     | [Blender](http://www.blender.org), https://rcc.fsu.edu/software/blender     | 3D animation suite | 
 | visualization | engauge     | http://digitizer.sourceforge.net         | Convert graph image to spreadsheet | 
 | visualization	| ncl         | http://www.ncl.ucar.edu                  | NCAR Command Language |
 | visualization | ParaView    | http://www.paraview.org                  | Parallel visualization application |
