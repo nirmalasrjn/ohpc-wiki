@@ -51,7 +51,7 @@ This is a list of component suggestions for potential inclusion into future vers
 | utility       | LaunchMON   | [LaunchMON](https://github.com/scalability-llnl/LaunchMON) | co-locate tool daemons with HPC runtimes |
 | utility       | magpie      | https://github.com/chu11/magpie          | run BigData(hadoop) jobs on HPC systems |
 | utility       | mrsh        | https://github.com/chaos/mrsh            | Munge based remote shell |
-| utility       | NCO         | http://nco.sourceforge.net/nco.html      | netCDF commandline operators | 
+| utility       | NCO         | http://nco.sourceforge.net/, [User Guide](http://nco.sourceforge.net/nco.html)      | netCDF commandline operators | 
 | utility       | patchelf    | https://github.com/NixOS/patchelf        | modify dynamic linker and RPATH of ELF executables |
 | utility       | PMIx        | https://www.open-mpi.org/projects/pmix   | Exascale process management interface |
 | utility       | SideCar     | ? ([about](https://computing.llnl.gov/vis/sidecarUM.html)) | Remote blockbuster control | 
