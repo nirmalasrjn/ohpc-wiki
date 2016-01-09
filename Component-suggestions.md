@@ -14,6 +14,8 @@ This is a list of component suggestions for potential inclusion into future vers
 | debug	        | MpiPView    | [MpiPView](https://computation.llnl.gov/casc/tool_gear/mpipview.html) | Visualize MpiP | 
 | debug	        | StackWalker |	https://stackwalker.codeplex.com         | |
 | | | | |
+| development   | fpga        |                                          | tools to program FPGAs       | 
+| | | | |
 | library       | fgfs        | [fgfs](https://github.com/dongahn/MountPointAttributes) | turns expensive, non-scalable file system calls into simple string comparison operations |
 | library       | gdal        | http://www.gdal.org                      | raster and vector geospacial data (GIS) |
 | library       | gperf       | https://www.gnu.org/software/gperf       | gnu perfect hash generator |
