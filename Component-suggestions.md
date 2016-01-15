@@ -16,6 +16,9 @@ This is a list of component suggestions for potential inclusion into future vers
 | | | | |
 | development   | fpga        |                                          | tools to program FPGAs       | 
 | | | | |
+| drivers       | NVIDIA      | http://www.nvidia.com/object/unix.html   | GPU support                  |
+| drivers       | Mellenox    | [ofed](http://www.mellanox.com/page/products_dyn?product_family=26&mtag=linux_sw_drivers) | Mellanox flavor of OFED |
+| | | | |
 | library       | fgfs        | [fgfs](https://github.com/dongahn/MountPointAttributes) | turns expensive, non-scalable file system calls into simple string comparison operations |
 | library       | gdal        | http://www.gdal.org                      | raster and vector geospacial data (GIS) |
 | library       | gperf       | https://www.gnu.org/software/gperf       | gnu perfect hash generator |
