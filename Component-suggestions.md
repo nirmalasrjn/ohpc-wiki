@@ -28,9 +28,11 @@ This is a list of component suggestions for potential inclusion into future vers
 | library       | OpenCV      | http://opencv.org                        | computer vision and machine learning software library |
 | library       | pyMPI	      | http://pympi.sourceforge.net             | Python MPI bindings |
 | library       | scr         | https://computation.llnl.gov/project/scr | Scalable Checkpoint Restart |
+| library       | sgd         | http://leon.bottou.org/projects/sgd      | Stochastic Gradient Descent |
 | library       | TCLAP       | http://tclap.sourceforge.net [Also on GitHub(newer?)](https://github.com/eile/tclap) | Library to define and access CLI arguments |
 | library       | UDUNITS     | [UDUNITS](http://www.unidata.ucar.edu/software/udunits) | Conversion between different units(udunits2?) |
 | library       | VampirTrace | [VampirTrace](http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/forschung/projekte/vampirtrace), http://tinyurl.com/ozrs7e3 | detailed logging of program execution for parallel applications |
+| library       | vowpal wabbit | https://github.com/JohnLangford/vowpal_wabbit | machine learning system | 
 | | | | |	 	 	 	 
 | packaging     | Spack	      | https://github.com/LLNL/spack            | HPC-centric Package Management |
 | | | | |
