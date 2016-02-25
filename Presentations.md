@@ -1,6 +1,6 @@
 This page houses presentations/talks related to OpenHPC.  
 
-_Have something related you would be interested in sharing with the community?  Feel free to upload the addition to [Issue #183](https://github.com/openhpc/ohpc/issues/183) and we can add it to the list._
+<sub>_Have something related you would be interested in sharing with the community?  Feel free to upload the addition to [Issue #183](https://github.com/openhpc/ohpc/issues/183) and we can add it to the list._</sub>
 
 
 ***
