@@ -28,7 +28,7 @@ This is a list of component suggestions for potential inclusion into future vers
 | library       | OCR         | https://01.org/open-community-runtime    | MPI alternative async communication library |
 | library       | OpenCV      | http://opencv.org                        | computer vision and machine learning software library |
 | library       | pyMPI	      | http://pympi.sourceforge.net             | Python MPI bindings |
-| library       | scr         | https://computation.llnl.gov/project/scr | Scalable Checkpoint Restart |
+| library       | scr         | https://github.com/hpc/scr | Scalable Checkpoint Restart |
 | library       | sgd         | http://leon.bottou.org/projects/sgd      | Stochastic Gradient Descent |
 | library       | TCLAP       | http://tclap.sourceforge.net [Also on GitHub(newer?)](https://github.com/eile/tclap) | Library to define and access CLI arguments |
 | library       | UDUNITS     | [UDUNITS](http://www.unidata.ucar.edu/software/udunits) | Conversion between different units(udunits2?) |
@@ -59,8 +59,8 @@ This is a list of component suggestions for potential inclusion into future vers
 | utility       | BlockBuster | [BlockBuster](http://sourceforge.net/projects/blockbuster) | High-resolution image/movie player | 
 | utility       | GMT         | http://gmt.soest.hawaii.edu              | Generic Mapping Tools | 
 | utility       | iRODS       | http://irods.org                         | open source data management software |
-| utility       | LaunchMON   | [LaunchMON](https://github.com/scalability-llnl/LaunchMON) | co-locate tool daemons with HPC runtimes |
-| utility       | magpie      | https://github.com/chu11/magpie          | run BigData(hadoop) jobs on HPC systems |
+| utility       | LaunchMON   | [LaunchMON](https://github.com/LLNL/LaunchMON) | co-locate tool daemons with HPC runtimes |
+| utility       | magpie      | https://github.com/LLNL/magpie          | run BigData(hadoop) jobs on HPC systems |
 | utility       | mrsh        | https://github.com/chaos/mrsh            | Munge based remote shell |
 | utility       | NCO         | http://nco.sourceforge.net/, [User Guide](http://nco.sourceforge.net/nco.html)      | netCDF commandline operators | 
 | utility       | patchelf    | https://github.com/NixOS/patchelf        | modify dynamic linker and RPATH of ELF executables |
