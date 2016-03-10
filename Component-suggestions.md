@@ -43,7 +43,8 @@ This is a list of component suggestions for potential inclusion into future vers
 | perf-tools    | memP        | http://memp.sourceforge.net              | Parallel heap profiling |
 | perf-tools    | papiex      | http://icl.cs.utk.edu/~mucci/papiex      | (unsupported) hw performance using papi |
 | perf-tools    | Scalasca, Score-P, cube | http://www.scalasca.org/software/scalasca-2.x/download.html      | performance optimization of parallel programs |	
-| resource management    | Torque/Maui |   http://www.adaptivecomputing.com/products/open-source/torque/   | resource management and scheduler | 	 	 	 
+| resource management    | Torque/Maui |   http://www.adaptivecomputing.com/products/open-source/torque/   | resource management and scheduler | 	
+| resource management    | PBS Pro |   http://www.pbsworks.com/newsdetail.aspx?news_id=11199   | scheduler | 	 	 	 
 | | | | |
 | runtime | Sandia OpenSHEM | https://github.com/regrant/sandia-shmem | Implementation of the OpenSHMEM specification |
 | provisioning  | xCAT        | http://www.xcat.org                      | |
