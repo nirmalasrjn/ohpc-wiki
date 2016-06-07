@@ -3,6 +3,8 @@ As of May 2016, the OpenHPC project is operating as a [Collaborative Project](ht
 1. **Governing Board:** general responsibilities include budgetary approval and the management of all non-technical business and outreach/communication.
 2. **Technical Steering Committee (TSC)**: general responsibilities include coordination and management of all technical matters for the project, including release management, component selections, and technical community engagement.
 
+
+***
 The TSC includes a variety of roles intended to help organize the work effort and to include representation from development groups and end users.  A graphical overview of the current roles that comprise the TSC is highlighted below. 
 
 
