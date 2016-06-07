@@ -6,7 +6,7 @@ As of May 2016, the OpenHPC project is operating as a [Collaborative Project](ht
 The TSC includes a variety of roles intended to help organize the work effort and to include representation from development groups and end users.  A graphical overview of the current roles that comprise the TSC is highlighted below. 
 
 
-
+![TSC Overview](https://github.com/openhpc/ohpc/blob/master/misc/images/openhpc-tsc-overview.png)
 
 ***
 _Current members of the OpenHPC TSC are as follows_:
@@ -31,11 +31,11 @@ _Current members of the OpenHPC TSC are as follows_:
 * Scott Suchyta, Altair (Maintainer)
 * Nirmala Sundararajan, Dell (Maintainer)
 
+***
 
+Linux Foundation Support
 
-
-
-
+* Jeff ErnstFriedman (OpenHPC Program Manager)
 
 
 
