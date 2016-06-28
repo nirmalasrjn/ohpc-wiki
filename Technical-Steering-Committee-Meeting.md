@@ -1,6 +1,6 @@
 The Technical Steering Committee for OpenHPC meets every Tuesday at 8am Pacific. To stay up-to-date, subscribe to the TSC [mailing list](https://lists.openhpc.community/mailman/listinfo/openhpc-tsc).
 
-* June 28, 2016 Meeting: 
+* June 28, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20160628) 
 
 ***
 
