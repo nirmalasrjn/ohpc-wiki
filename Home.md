@@ -4,4 +4,3 @@ Welcome to the OpenHPC wiki.
  * [[Technical Steering Committee (TSC) Meetings|Technical Steering Committee Meetings]]
 * [[Component suggestions]]
 * [[Presentations]]
-* [[Technical Steering Committee Meetings]]
