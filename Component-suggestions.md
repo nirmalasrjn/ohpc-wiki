@@ -4,7 +4,7 @@ This is a list of component suggestions for potential inclusion into future vers
 |------|------|----------|-------|
 | ~~admin~~         | ~~clustershell~~ | ~~https://github.com/cea-hpc/clustershell~~ | ~~Python replacement for pdsh~~ |
 | admin         | spindle     | https://github.com/hpc/Spindle |  tool for loading dynamic libs at scale |
-| ~~admin~~         | ~~shine~~       | ~~https://sourceforge.net/projects/lustre-shine/~~ ||
+| ~~admin~~         | ~~shine~~       | ~~https://sourceforge.net/projects/lustre-shine/~~ | |
 | | | | |
 | configuration | ansible     | https://github.com/ansible/ansible       | |
 | configuration	| chef        | https://www.chef.io/chef, https://github.com/chef/chef | |
