@@ -7,3 +7,5 @@ This page houses presentations/talks related to OpenHPC.
 
 * [FOSDEM 2016](https://fosdem.org/2016/schedule/event/hpc_bigdata_openhpc/) [01/31/2016]
  * OpenHPC: Community Building Blocks for HPC Systems - [\[slides\]](https://github.com/openhpc/ohpc/files/146753/OpenHPC-Overview-fosdem16.pdf) [\[video\]](http://video.fosdem.org/2016/aw1126/openhpc-community-building-blocks-for-hpc-systems.mp4)
+* [ISC 2016 - BoF Session](http://www.isc-hpc.com/isc16_ap/sessiondetails.htm?t=session&o=367&a=select) [06/22/2016]
+  * OpenHPC Birds of a Feather Session
