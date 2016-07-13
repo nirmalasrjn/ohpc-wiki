@@ -1,4 +1,6 @@
-The Technical Steering Committee (TSC) for OpenHPC meets every Tuesday at 8am Pacific. To stay up-to-date, subscribe to the TSC [mailing list](https://lists.openhpc.community/mailman/listinfo/openhpc-tsc).
+The Technical Steering Committee (TSC) for OpenHPC meets every Tuesday at 8am Pacific. To stay up-to-date, subscribe to the TSC [mailing list](https://lists.openhpc.community/mailman/listinfo/openhpc-tsc). 
+
+Call details are here: [[TSC Weekly Meeting Call Info](https://github.com/openhpc/ohpc/wiki/TSC-Weekly-Meeting-Call-Info:)]
 
 **NOTE:** We we have cancelled the July 19 TSC meeting to accommodate member's travel schedule. We will resume meetings on July 26.
 
