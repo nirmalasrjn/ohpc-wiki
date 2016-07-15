@@ -6,7 +6,7 @@ Call details are here: [[TSC Weekly Meeting Call Info](https://github.com/openhp
 
 ***
 
-* July 12, 2016 Meeting: [PDF](http://bit.ly/OHPCTSC20160712) [Vision | Values](https://docs.google.com/document/d/1wejU-thfur-CsxFFQYXtUZohPQQOncp7qUgieUVcVEY/edit#heading=h.aw4xcj2cjr11)
+* July 12, 2016 Meeting: [PDF](http://bit.ly/OHPCTSC20160712) | [Vision | Values](bit.ly/OHPCTSCVizVal)
 * June 28, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20160628) 
 
 ***
