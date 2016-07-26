@@ -1,11 +1,10 @@
-### SC'16 BoF: Please provide [your edit and suggestions](http://bit.ly/ohpctscsc16bof) for thee OpenHPC TSC SC'16 BoF Submission. 
+### NOTE SC'16 BoF: 
+Please provide [your edit and suggestions](http://bit.ly/ohpctscsc16bof) for thee OpenHPC TSC SC'16 BoF Submission. 
 ### Deadline for comments is Friday, July 29th
-
+***
 The Technical Steering Committee (TSC) for OpenHPC meets every Tuesday at 8am Pacific. To stay up-to-date, subscribe to the TSC [mailing list](https://lists.openhpc.community/mailman/listinfo/openhpc-tsc). 
 
 Call details are here: [[TSC Weekly Meeting Call Info](https://github.com/openhpc/ohpc/wiki/TSC-Weekly-Meeting-Call-Info:)]
-
-
 
 ***
 * July 26, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20160726) | [MP4](http://bit.ly/ohpctsc20160726vid) 
