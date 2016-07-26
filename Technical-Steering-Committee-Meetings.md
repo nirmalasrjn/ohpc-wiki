@@ -2,10 +2,10 @@ The Technical Steering Committee (TSC) for OpenHPC meets every Tuesday at 8am Pa
 
 Call details are here: [[TSC Weekly Meeting Call Info](https://github.com/openhpc/ohpc/wiki/TSC-Weekly-Meeting-Call-Info:)]
 
-**NOTE:** We we have cancelled the July 19 TSC meeting to accommodate member's travel schedule. We will resume meetings on July 26.
+
 
 ***
-
+* July 26, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20160726) | [MP4](http://bit.ly/ohpctsc20160726vid) 
 * _Cancelled_ July 19, 2016 Meeting: Cancelled to accommodate member vacation travel schedules.
 * July 12, 2016 Meeting: [PDF](http://bit.ly/OHPCTSC20160712) | Contribute to the creation of the [Vision | Values](bit.ly/OHPCTSCVizVal) document!
 * _Cancelled_ July 5, 2016 Meeting: Cancelled due to July 4th holiday in the United States
