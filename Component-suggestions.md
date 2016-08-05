@@ -55,6 +55,7 @@ This is a list of component suggestions for potential inclusion into future vers
 | visualization | ParaView    | http://www.paraview.org                  | Parallel visualization application |
 | visualization | PySide      | [Latest version: 1.2.4](https://pypi.python.org/pypi/PySide/1.2.4), http://pypi.python.org/pypi/PySide/1.2.2 | Python QT bindings |
 | visualization | VTK         | http://www.vtk.org/download              | Visualization Toolkit |
+| visualization | PCP	      | http://pcp.io/                           | Install PCP and PCP-GUI for visual tracing using pmchart |	
 | | | | |	 	 	 
 | utility       | AtomView3 (1&2?) | [AtomView](http://li.mit.edu/A/Graphics/A3/A3.html) | Atomistic configuration viewer |
 | utility       | BlockBuster | [BlockBuster](http://sourceforge.net/projects/blockbuster) | High-resolution image/movie player | 
